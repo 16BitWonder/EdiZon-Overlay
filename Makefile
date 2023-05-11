@@ -17,7 +17,7 @@ endif
 
 APP_TITLE		:=	EdiZon
 APP_AUTHOR		:=	WerWolv & proferabg
-APP_VERSION		:=	v1.0.5
+APP_VERSION		:=	v1.0.6
 
 TARGET			:=	EdiZon
 OUTDIR			:=	out
